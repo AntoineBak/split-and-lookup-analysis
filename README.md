@@ -24,5 +24,5 @@ or
 magma [filename]
 ```
 
-in the terminal, depending on the extensioon of the file.
+in the terminal, depending on the extension of the file.
 
